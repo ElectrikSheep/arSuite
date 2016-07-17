@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Ground_CaptainSmoke" size="1.000000 0.677500" />
+    <ImageTarget name="Ground_CivilWar" size="1.000000 0.773333" />
+    <ImageTarget name="Wall_CaptainAmerica" size="1.000000 1.476793" />
+    <ImageTarget name="Wall_WinterSoldier" size="1.000000 1.468429" />
+  </Tracking>
+</QCARConfig>

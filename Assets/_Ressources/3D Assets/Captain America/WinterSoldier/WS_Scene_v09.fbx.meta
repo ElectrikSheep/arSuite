@@ -1,0 +1,226 @@
+fileFormatVersion: 2
+guid: dba42f435760846b0a32176a52fcf25d
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Close_Mask
+    100002: Close_Up
+    100004: Frame_Glass
+    100006: Frame_Glass 1
+    100008: Front_Carrier
+    100010: Front_Carrier 1
+    100012: Front_Carrier 2
+    100014: Full_Length
+    100016: Full_Mask
+    100018: Ground_Cyc
+    100020: Ground_Cyc 1
+    100022: Ground_Cyc 2
+    100024: Ground_Glass
+    100026: Ground_Glass 1
+    100028: Gun
+    100030: Gun 1
+    100032: Gun 2
+    100034: Marvel
+    100036: Marvel 1
+    100038: Rating2
+    100040: Rating3
+    100042: Rear_Carrier
+    100044: Rear_Carrier 1
+    100046: Rear_Carrier 2
+    100048: Rigged_winter_soldier:Textured_Shield_v01:group1
+    100050: Rigged_winter_soldier:Textured_Shield_v01:group2
+    100052: Rigged_winter_soldier:Textured_Shield_v01:Mesh
+    100054: Rigged_winter_soldier:Textured_Shield_v01:Mesh 1
+    100056: Rigged_winter_soldier:Textured_Shield_v01:Shield_Edge_in:Mesh
+    100058: Rigged_winter_soldier:Textured_Shield_v01:transform4
+    100060: Scene
+    100062: Shared_models
+    100064: Shield
+    100066: Shield 1
+    100068: Shield 2
+    100070: Shield 2_MeshPart0
+    100072: Shield 2_MeshPart1
+    100074: Sky_Dome
+    100076: Sky_dome
+    100078: Sky_Dome 1
+    100080: Textured_Shield_v01:group1
+    100082: Textured_Shield_v01:group2
+    100084: Textured_Shield_v01:Mesh
+    100086: Textured_Shield_v01:Mesh 1
+    100088: Textured_Shield_v01:Shield_Edge_in:Mesh
+    100090: Textured_Shield_v01:transform4
+    100092: Trail
+    100094: WS
+    100096: WS 1
+    100098: WS 2
+    100100: WS 2_MeshPart0
+    100102: WS 2_MeshPart1
+    100104: //RootNode
+    400000: Close_Mask
+    400002: Close_Up
+    400004: Frame_Glass
+    400006: Frame_Glass 1
+    400008: Front_Carrier
+    400010: Front_Carrier 1
+    400012: Front_Carrier 2
+    400014: Full_Length
+    400016: Full_Mask
+    400018: Ground_Cyc
+    400020: Ground_Cyc 1
+    400022: Ground_Cyc 2
+    400024: Ground_Glass
+    400026: Ground_Glass 1
+    400028: Gun
+    400030: Gun 1
+    400032: Gun 2
+    400034: Marvel
+    400036: Marvel 1
+    400038: Rating2
+    400040: Rating3
+    400042: Rear_Carrier
+    400044: Rear_Carrier 1
+    400046: Rear_Carrier 2
+    400048: Rigged_winter_soldier:Textured_Shield_v01:group1
+    400050: Rigged_winter_soldier:Textured_Shield_v01:group2
+    400052: Rigged_winter_soldier:Textured_Shield_v01:Mesh
+    400054: Rigged_winter_soldier:Textured_Shield_v01:Mesh 1
+    400056: Rigged_winter_soldier:Textured_Shield_v01:Shield_Edge_in:Mesh
+    400058: Rigged_winter_soldier:Textured_Shield_v01:transform4
+    400060: Scene
+    400062: Shared_models
+    400064: Shield
+    400066: Shield 1
+    400068: Shield 2
+    400070: Shield 2_MeshPart0
+    400072: Shield 2_MeshPart1
+    400074: Sky_Dome
+    400076: Sky_dome
+    400078: Sky_Dome 1
+    400080: Textured_Shield_v01:group1
+    400082: Textured_Shield_v01:group2
+    400084: Textured_Shield_v01:Mesh
+    400086: Textured_Shield_v01:Mesh 1
+    400088: Textured_Shield_v01:Shield_Edge_in:Mesh
+    400090: Textured_Shield_v01:transform4
+    400092: Trail
+    400094: WS
+    400096: WS 1
+    400098: WS 2
+    400100: WS 2_MeshPart0
+    400102: WS 2_MeshPart1
+    400104: //RootNode
+    2300000: Close_Mask
+    2300002: Frame_Glass
+    2300004: Frame_Glass 1
+    2300006: Front_Carrier 2
+    2300008: Full_Mask
+    2300010: Ground_Cyc 2
+    2300012: Ground_Glass
+    2300014: Ground_Glass 1
+    2300016: Gun 2
+    2300018: Marvel
+    2300020: Marvel 1
+    2300022: Rating2
+    2300024: Rating3
+    2300026: Rear_Carrier 2
+    2300028: Shield 2_MeshPart0
+    2300030: Shield 2_MeshPart1
+    2300032: Sky_dome
+    2300034: Trail
+    2300036: WS 2_MeshPart0
+    2300038: WS 2_MeshPart1
+    3300000: Close_Mask
+    3300002: Frame_Glass
+    3300004: Frame_Glass 1
+    3300006: Front_Carrier 2
+    3300008: Full_Mask
+    3300010: Ground_Cyc 2
+    3300012: Ground_Glass
+    3300014: Ground_Glass 1
+    3300016: Gun 2
+    3300018: Marvel
+    3300020: Marvel 1
+    3300022: Rating2
+    3300024: Rating3
+    3300026: Rear_Carrier 2
+    3300028: Shield 2_MeshPart0
+    3300030: Shield 2_MeshPart1
+    3300032: Sky_dome
+    3300034: Trail
+    3300036: WS 2_MeshPart0
+    3300038: WS 2_MeshPart1
+    4300000: Full_Mask
+    4300002: Rating2
+    4300004: Marvel
+    4300006: Frame_Glass
+    4300008: Ground_Glass
+    4300010: Rating3
+    4300012: Marvel
+    4300014: Frame_Glass
+    4300016: Close_Mask
+    4300018: Ground_Glass
+    4300020: Shield_MeshPart0
+    4300022: Shield_MeshPart1
+    4300024: Trail
+    4300026: Gun
+    4300028: Sky_dome
+    4300030: Ground_Cyc
+    4300032: Front_Carrier
+    4300034: Rear_Carrier
+    4300036: WS_MeshPart0
+    4300038: WS_MeshPart1
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 

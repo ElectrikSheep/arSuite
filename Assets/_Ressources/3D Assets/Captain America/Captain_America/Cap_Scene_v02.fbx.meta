@@ -1,0 +1,187 @@
+fileFormatVersion: 2
+guid: af7ed8895c7574755b26e345cf27e772
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Cap
+    100002: Cap 1
+    100004: Cap 2
+    100006: Cap 2_MeshPart0
+    100008: Cap 2_MeshPart1
+    100010: Cap 2_MeshPart2
+    100012: Cap 2_MeshPart3
+    100014: Cap 2_MeshPart4
+    100016: Cap 2_MeshPart5
+    100018: Cap 2_MeshPart6
+    100020: //RootNode
+    100022: Carrier
+    100024: Carrier 1
+    100026: Carrier 2
+    100028: Clip_Plane
+    100030: Close_Up
+    100032: Close_Up_Shatter
+    100034: Falling
+    100036: Falling 1
+    100038: Falling 2
+    100040: Full_Length
+    100042: Full_Length_Shatter
+    100044: Gound_Cyc
+    100046: Ground_Cyc
+    100048: Ground_Cyc 1
+    100050: Heli
+    100052: Heli 1
+    100054: Heli 2
+    100056: Quin
+    100058: Quin 1
+    100060: Quin 2
+    100062: Shared_Models
+    100064: Sky_Dome
+    100066: Sky_dome
+    100068: Sky_dome 1
+    100070: Vehicles_Cyc
+    100072: Vehicles_Cyc 1
+    100074: Vehicles_Cyc 2
+    400000: Cap
+    400002: Cap 1
+    400004: Cap 2
+    400006: Cap 2_MeshPart0
+    400008: Cap 2_MeshPart1
+    400010: Cap 2_MeshPart2
+    400012: Cap 2_MeshPart3
+    400014: Cap 2_MeshPart4
+    400016: Cap 2_MeshPart5
+    400018: Cap 2_MeshPart6
+    400020: //RootNode
+    400022: Carrier
+    400024: Carrier 1
+    400026: Carrier 2
+    400028: Clip_Plane
+    400030: Close_Up
+    400032: Close_Up_Shatter
+    400034: Falling
+    400036: Falling 1
+    400038: Falling 2
+    400040: Full_Length
+    400042: Full_Length_Shatter
+    400044: Gound_Cyc
+    400046: Ground_Cyc
+    400048: Ground_Cyc 1
+    400050: Heli
+    400052: Heli 1
+    400054: Heli 2
+    400056: Quin
+    400058: Quin 1
+    400060: Quin 2
+    400062: Shared_Models
+    400064: Sky_Dome
+    400066: Sky_dome
+    400068: Sky_dome 1
+    400070: Vehicles_Cyc
+    400072: Vehicles_Cyc 1
+    400074: Vehicles_Cyc 2
+    2300000: Cap 2_MeshPart0
+    2300002: Cap 2_MeshPart1
+    2300004: Cap 2_MeshPart2
+    2300006: Cap 2_MeshPart3
+    2300008: Cap 2_MeshPart4
+    2300010: Cap 2_MeshPart5
+    2300012: Cap 2_MeshPart6
+    2300014: Carrier 2
+    2300016: Clip_Plane
+    2300018: Close_Up_Shatter
+    2300020: Falling 2
+    2300022: Full_Length_Shatter
+    2300024: Ground_Cyc 1
+    2300026: Heli 2
+    2300028: Quin 2
+    2300030: Sky_dome 1
+    2300032: Vehicles_Cyc 2
+    3300000: Cap 2_MeshPart0
+    3300002: Cap 2_MeshPart1
+    3300004: Cap 2_MeshPart2
+    3300006: Cap 2_MeshPart3
+    3300008: Cap 2_MeshPart4
+    3300010: Cap 2_MeshPart5
+    3300012: Cap 2_MeshPart6
+    3300014: Carrier 2
+    3300016: Clip_Plane
+    3300018: Close_Up_Shatter
+    3300020: Falling 2
+    3300022: Full_Length_Shatter
+    3300024: Ground_Cyc 1
+    3300026: Heli 2
+    3300028: Quin 2
+    3300030: Sky_dome 1
+    3300032: Vehicles_Cyc 2
+    4300000: Full_Length_Shatter
+    4300002: Close_Up_Shatter
+    4300004: Cap_MeshPart0
+    4300006: Cap_MeshPart1
+    4300008: Cap_MeshPart2
+    4300010: Cap_MeshPart3
+    4300012: Cap_MeshPart4
+    4300014: Cap_MeshPart5
+    4300016: Cap_MeshPart6
+    4300018: Carrier
+    4300020: Quin
+    4300022: Heli
+    4300024: Falling
+    4300026: Vehicles_Cyc
+    4300028: Sky_dome
+    4300030: Ground_Cyc
+    4300032: Clip_Plane
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
